@@ -1,0 +1,176 @@
+.container {
+    background-color: rgb(230, 221, 234);
+    padding:200px;
+    justify-content: center;
+}
+.container div {
+    background-color: aliceblue;
+}
+
+body {
+    margin: 0%;
+    background-color: #e1e0e9; 
+}
+
+header {
+    background-color:#002E5E;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center;
+}
+
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+
+}
+
+
+a{
+    color: #ffffff;
+    font-size: 16px;
+}
+h6{
+    color:#D1495B;
+    font-family: "Inter", sans-serif;
+    font-size:16px;
+    font-weight: 600;
+
+
+}
+h1{
+    color:#000000;
+    font-family: "Inter", sans-serif;
+    font-size:32px;
+    font-weight: 600;
+}
+p{
+    color: #202020;    ;
+    font-family: "Inter", sans-serif;
+    font-size:16px;
+    font-weight: 500; 
+    
+    
+    
+}
+
+
+.button {
+    width: 85px;
+    height: 85px;
+    border-radius: 3px;
+    background-color: #004E98;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: 400; 
+    font-size: 16px ;
+    border: none;
+   
+}
+strong{
+    font-family:"Inter", sans-serif ;
+    font-weight: 600; 
+    font-size: 36px ;
+    line-height:43.57px ;
+}
+.button1{
+    width: 355px;
+    height: 47px;
+    top: 635px;
+    left: 175px;
+    border-radius: 5px;
+    background-color:#D1495B;
+    color:#F4F4FF;
+    font-family:"Inter", sans-serif ;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 30px;
+    justify-content: center;
+    border: none;
+}
+.button2{
+    background-color:#004E98;
+    width: 1070px;
+    height: 77px;
+    top: 874px;
+    left: 185px;
+    border: none;
+    text-align: center;
+    color: #ffffff;
+    font-family:"Inter", sans-serif ;
+    font-weight: 600;
+    line-height: 38.73px  ;
+    
+   
+}
+.item { 
+    height: 588px ; 
+    width: 530px;
+    background-color:#ffffff ;
+    top: 958px;
+    left: 185px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.Rec{
+    width: 530px ;
+    height: 336px;
+    top: 957px;
+    left: 185px;
+    border-radius: 5px , 5px ,0px 0px;
+}
+.position h6 {
+    color: #464646;
+    justify-content: space-between;
+    font-family:"Inter", sans-serif ;
+    font-weight: 400;
+
+}
+p{
+   font-family:"Inter", sans-serif ;
+   font-weight: 400;
+   font-size: 18px; 
+}
+.but {
+    width: 36px;
+    height:36px ;
+    border-radius: 2px;
+    background-color: #ffffff;
+    color: #0A0A0A;
+    display: flex;
+    gap: 450px;
+    padding-left: 10px;
+}
+.logo {
+    width: 145px;
+    height: 145px;
+    background-color:#5D5D5D;
+    margin: 50px;
+    }
+    @media screen and (max-width:430px) {
+        p{
+            color: #202020;    ;
+            font-family: "Inter", sans-serif;
+            font-size:16px;
+            font-weight: 500; 
+            weight:300px ;
+            
+            
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+
